@@ -1,4 +1,4 @@
-This Modern Reactive Form with with all validation [Start To Create New React App](https://github.com/facebook/create-react-app).
+Listing of items and pagination in react with content loading [Start To Create New React App](https://github.com/facebook/create-react-app).
 
 
 ## Instalation
