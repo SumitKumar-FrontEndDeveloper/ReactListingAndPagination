@@ -1,6 +1,5 @@
 This Modern Reactive Form with with all validation [Start To Create New React App](https://github.com/facebook/create-react-app).
 
-![img](https://raw.githubusercontent.com/SumitKumar-FrontEndDeveloper/ReactJSMordernForm/master/mordenReactive.png)
 
 ## Instalation
 
