@@ -1,0 +1,58 @@
+.Account {}
+
+.headerTab{
+    margin: auto 0;
+    border: 1px solid grey;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.tabNew {
+    text-align: center;
+    border: 0.2px solid #db780f;
+}
+
+.tabNew.active {
+    background-color: #db780f;
+    color:#fff;
+}
+.root-container {
+    width: 72%;
+    margin: 0 auto;
+}
+.mainBox {
+    border: 1px solid #db780f;
+}
+.boxContainer{
+    
+    padding: 17px;
+    margin-top: 10px;
+
+}
+.lblheader{
+    text-align: center;
+    font-size: 23px;
+}
+.error-danger {
+    color:red;
+}
+.btn-container{
+    width: 60%;
+    margin: 0 auto;
+}
+.loginBtn {
+    background: #db780f !important;
+    color:#fff;
+    border:1px solid #db780f !important; 
+    width: 100%;
+   
+}
+
+.disableBtn{
+    background: #db780f !important;
+    color:#fff;
+    border:1px solid #db780f !important; 
+    width: 100%;
+    pointer-events: none;
+    cursor: default;
+    opacity: 0.7;
+}
